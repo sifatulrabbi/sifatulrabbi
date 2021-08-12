@@ -2,11 +2,12 @@
 I'm a Web developer expert in front-end development. My goal is to become a master of web development and build the next big web app. I'm self-taught and passionate about learning programming.
 
 ### Skills:
-<img src='' alt='github' height='25'>
-<img src='' alt='github' height='25'>
-<img src='' alt='github' height='25'>
-<img src='' alt='github' height='25'>
-<img src='' alt='github' height='25'>
+<img src='https://github.com/temujins/temujins/blob/main/icons/reactjs_logo.svg' alt='reactjs' height='25'>
+<img src='https://github.com/temujins/temujins/blob/main/icons/javascript_logo.svg' alt='javascript' height='25'>
+<img src='https://github.com/temujins/temujins/blob/main/icons/typescript_logo.svg' alt='typescript' height='25'>
+<img src='https://github.com/temujins/temujins/blob/main/icons/css_logo.svg' alt='css' height='25'>
+<img src='https://github.com/temujins/temujins/blob/main/icons/sass_logo.svg' alt='sass' height='25'>
+<img src='https://github.com/temujins/temujins/blob/main/icons/html_logo.svg' alt='html' height='25'>
 
 - 🔭 I’m currently working on A portfolio website 
 - 🌱 I’m currently learning TypeScript and NodeJs 
