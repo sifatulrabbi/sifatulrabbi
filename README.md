@@ -2,21 +2,12 @@
 I'm a Web developer expert in front-end development. My goal is to become a master of web development and build the next big web app. I'm self-taught and passionate about learning programming.
 
 ### Skills & Experience:
-<img src='https://github.com/temujins/temujins/blob/main/icons/reactjs_logo.svg' alt='reactjs' height='18'> ReactJs
- 
-<img src='https://github.com/temujins/temujins/blob/main/icons/javascript_logo.svg' alt='javascript' height='18'> JavaScript
- 
-<img src='https://github.com/temujins/temujins/blob/main/icons/typescript_logo.svg' alt='typescript' height='18'> TypeScript
- 
-<img src='https://github.com/temujins/temujins/blob/main/icons/css_logo.svg' alt='css' height='18'> CSS
-
-<img src='https://github.com/temujins/temujins/blob/main/icons/sass_logo.svg' alt='sass' height='18'> SCSS
-
-<img src='https://github.com/temujins/temujins/blob/main/icons/html_logo.svg' alt='html' height='18'> HTML
-
-:nail_care: styled components
-
-<img src='https://github.com/temujins/temujins/blob/main/icons/materialui_logo.svg' alt='material ui' height='18'> Material UI
+<code><img src='https://github.com/temujins/temujins/blob/main/icons/reactjs_logo.svg' alt='reactjs' height='18'></code>
+<code><img src='https://github.com/temujins/temujins/blob/main/icons/javascript_logo.svg' alt='javascript' height='18'></code>
+<code><img src='https://github.com/temujins/temujins/blob/main/icons/typescript_logo.svg' alt='typescript' height='18'></code>
+<code><img src='https://github.com/temujins/temujins/blob/main/icons/css_logo.svg' alt='css' height='18'></code>
+<code><img src='https://github.com/temujins/temujins/blob/main/icons/sass_logo.svg' alt='sass' height='18'></code>
+<code><img src='https://github.com/temujins/temujins/blob/main/icons/html_logo.svg' alt='html' height='18'></code>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=onedark)
 
