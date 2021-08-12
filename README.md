@@ -14,9 +14,9 @@ Skills: REACT / JavaScript / HTML / CSS / SCSS / TypeScript / Material-UI / styl
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/temujins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/ttemujinRabbi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/ttemujinrabbi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/sifatul_rabbi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](sifatulislamrabbi.web.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temujins&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![temujins GitHub stats](https://github-readme-stats.vercel.app/api?username=temujins&theme=onedark)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temujins&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=temujins&theme=onedark)
 ![GitHub metrics](https://metrics.lecoq.io/temujins)
 ![Profile views](https://gpvc.arturio.dev/temujins)  
