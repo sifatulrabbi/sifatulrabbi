@@ -17,12 +17,12 @@ Skills: REACT / JavaScript / HTML / CSS / SCSS / TypeScript / Material-UI / styl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temujins&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![temujins wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=temujins&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![temujins GitHub stats](https://github-readme-stats.vercel.app/api?username=temujins&theme=onedark)  
+![temujins GitHub stats](https://github-readme-stats.vercel.app/api?username=temujins&theme=onedark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=temujins&theme=onedark)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=temujins&theme=onedark)
 
-![GitHub metrics](https://metrics.lecoq.io/temujins)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=onedark)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=onedark)  
+![GitHub metrics](https://metrics.lecoq.io/temujins)
 
 ![Profile views](https://gpvc.arturio.dev/temujins)  
