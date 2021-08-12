@@ -9,7 +9,9 @@ I'm a Web developer expert in front-end development. My goal is to become a mast
 <code><img src='https://github.com/temujins/temujins/blob/main/icons/sass_logo.svg' alt='sass' height='18'></code>
 <code><img src='https://github.com/temujins/temujins/blob/main/icons/html_logo.svg' alt='html' height='18'></code>
 
+<!--
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=onedark)
+-->
 
 - 🔭 I’m currently working on [fiver](https://www.fiverr.com/sifatul20) & [Upwork](https://www.upwork.com/freelancers/~01a4811642864f0e7c)
 - 🌱 I’m currently learning Typescript
