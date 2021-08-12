@@ -1,7 +1,7 @@
 # Md Sifatul Islam Rabbi
 I'm a Web developer expert in front-end development. My goal is to become a master of web development and build the next big web app. I'm self-taught and passionate about learning programming.
 
-### Skills:
+### Skills & Experience:
 <img src='https://github.com/temujins/temujins/blob/main/icons/reactjs_logo.svg' alt='reactjs' height='18'> ReactJs
  
 <img src='https://github.com/temujins/temujins/blob/main/icons/javascript_logo.svg' alt='javascript' height='18'> JavaScript
