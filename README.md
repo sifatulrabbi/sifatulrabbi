@@ -16,7 +16,7 @@ I'm a Web developer expert in front-end development. My goal is to become a mast
 
 :nail_care: styled components
 
-<img src='https://github.com/temujins/temujins/blob/main/icons/materialui_logo.svg' alt='material ui' height='18'> HTML
+<img src='https://github.com/temujins/temujins/blob/main/icons/materialui_logo.svg' alt='material ui' height='18'> Material UI
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=onedark)
 
