@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Md Sifatul Islam Rabbi
-#### I am a Front-end web developer
+#### JavaScrpt web developer
 I'm a Web developer expert in front-end development. My goal is to become a master of web development and build the next big web app. I'm self-taught and passionate about learning programming.
 
 Skills: REACT / JavaScript / HTML / CSS / SCSS / TypeScript / Material-UI / styled-components
