@@ -19,9 +19,9 @@ Skills: REACT / JavaScript / HTML / CSS / SCSS / TypeScript / Material-UI / styl
 
 ![temujins GitHub stats](https://github-readme-stats.vercel.app/api?username=temujins&theme=onedark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=temujins&theme=onedark)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=onedark)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=temujins&theme=onedark)
 
 ![GitHub metrics](https://metrics.lecoq.io/temujins)
 
