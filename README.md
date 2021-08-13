@@ -14,7 +14,7 @@ I'm a Web developer expert in front-end development. My goal is to become a mast
 -->
 
 - 🔭 I’m currently working on [fiver](https://www.fiverr.com/sifatul20) & [Upwork](https://www.upwork.com/freelancers/~01a4811642864f0e7c)
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on JavaScript development
 - 💬 Ask me about anything mdsifatulislam.rabbi@gmail.com
 
