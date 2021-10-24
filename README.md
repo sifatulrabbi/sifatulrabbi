@@ -4,7 +4,7 @@
 
 # Md Sifatul Islam Rabbi
 
-A passionate Web developer from Bangladesh. Currently working as a freelancer. Expert in JavaScript and CSS. Experienced in front-end and API development. My primary goal is to explore the development world as much as possible
+I'm a passionate Web developer and JavaScript lover from Bangladesh.
 
 <a href="https://temujins.github.io">Visit Portfolio</a>
 <br/>
