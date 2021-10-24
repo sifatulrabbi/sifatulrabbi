@@ -26,10 +26,10 @@ I'm a passionate Web developer and JavaScript lover from Bangladesh.
 
 <br/><br/>
 
-> 🔭 I’m currently working on [<span style="color: #20D9FF">Fiverr</span>](https://www.fiverr.com/sifatul20) & [<span style="color: #20D9FF">Upwork</span>](https://www.upwork.com/freelancers/~01a4811642864f0e7c)  
+> 🔭 I’m currently working on building a E-Commerce website  
 > 🌱 I’m currently learning TypeScript  
-> 👯 I’m looking to collaborate on JavaScript development  
-> 💬 Ask me about anything [<span style="color: #20D9FF">Email</span>](mailto:mdsifatulislam.rabbi@gmail.com)
+> 👯 I’m looking to collaborate on web development  
+> 💬 Ask me about anything [Email](mailto:mdsifatulislam.rabbi@gmail.com)  
 
 <br/>
 
