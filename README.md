@@ -28,7 +28,7 @@ I'm a passionate Web developer and JavaScript lover from Bangladesh.
 <br/><br/>
 
 > 🔭 I’m currently working on building a E-Commerce website  
-> 🌱 I’m currently learning TypeScript  
+> 🌱 I’m currently learning NestJS  
 > 👯 I’m looking to collaborate on web development  
 > 💬 Ask me about anything [Email](mailto:mdsifatulislam.rabbi@gmail.com)  
 
