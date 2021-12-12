@@ -4,7 +4,7 @@
 
 # Md Sifatul Islam Rabbi
 
-I'm a passionate Web developer and JavaScript lover from Bangladesh.
+I'm a passionate Web developer and TypeScript lover from Bangladesh.
 
 <a href="https://temujins.github.io">Visit Portfolio</a>
 <br/>
