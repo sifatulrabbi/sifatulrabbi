@@ -22,6 +22,7 @@ I'm a passionate Web developer and JavaScript lover from Bangladesh.
 <code><img src='./icons/firebase.svg' alt='firebase' height='25'></code>
 <code><img src='./icons/nestjs.svg' alt='firebase' height='25'></code>
 <code><img src='./icons/python.svg' alt='firebase' height='25'></code>
+<code><img src='./icons/django.svg' alt='firebase' height='25'></code>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=tokyonight)  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temujins&layout=compact&theme=tokyonight" alt="Sifatul's top languages"/>
