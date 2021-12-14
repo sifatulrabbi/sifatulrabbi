@@ -24,7 +24,7 @@ I'm a passionate Web developer and TypeScript lover from Bangladesh.
 <code><img src='./icons/python.svg' alt='firebase' height='25'></code>
 <code><img src='./icons/django.svg' alt='firebase' height='25'></code>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)    -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight" alt="Sifatul's top languages"/>
 
 <br/><br/>
