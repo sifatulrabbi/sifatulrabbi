@@ -6,7 +6,7 @@
 
 I'm a passionate Web developer and TypeScript lover from Bangladesh.
 
-<a href="https://temujins.github.io">Visit Portfolio</a>
+<a href="https://sifatulrabbi.github.io">Visit Portfolio</a>
 <br/>
 <br/>
 
@@ -24,8 +24,8 @@ I'm a passionate Web developer and TypeScript lover from Bangladesh.
 <code><img src='./icons/python.svg' alt='firebase' height='25'></code>
 <code><img src='./icons/django.svg' alt='firebase' height='25'></code>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=temujins&theme=tokyonight)  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temujins&layout=compact&theme=tokyonight" alt="Sifatul's top languages"/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfiatulrabbi&layout=compact&theme=tokyonight" alt="Sifatul's top languages"/>
 
 <br/><br/>
 
