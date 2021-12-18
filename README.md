@@ -2,8 +2,7 @@
 <br/>
 <br/>
 
-<!-- # Md Sifatul Islam Rabbi -->
-
+<div align="center">
 I love learning and doing web development. My goal is to build new programs and applications, my hobbies are writing code and going to the gym.
 
 <a href="https://linkedin/in/temujins">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -73,9 +72,4 @@ I love learning and doing web development. My goal is to build new programs and 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight" alt="Sifatul's top languages"/>
 
-<br/><br/>
-
-> 🔭 I’m currently working on building a E-Commerce website  
-> 🌱 I’m currently learning NestJS  
-> 👯 I’m looking to collaborate on web development  
-> 💬 Ask me about anything [Email](mailto:mdsifatulislam.rabbi@gmail.com)  
+</div> 
