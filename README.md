@@ -4,7 +4,7 @@
 
 # Md Sifatul Islam Rabbi
 
-I'm a passionate Web developer and TypeScript lover from Bangladesh.
+I love learning and doing web development. My goal is to build new programs and applications, my hobbies are writing code and going to the gym.
 
 <a href="https://sifatulrabbi.github.io">Visit Portfolio</a>
 <br/>
