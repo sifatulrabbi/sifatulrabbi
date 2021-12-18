@@ -1,18 +1,18 @@
-<!--
-<img src='./images/background.jpg' alt=''/>
+<img src='./images/banner_name_3241.jpg' alt=''/>
 <br/>
 <br/>
--->
 
-# Md Sifatul Islam Rabbi
+<!-- # Md Sifatul Islam Rabbi -->
 
 I love learning and doing web development. My goal is to build new programs and applications, my hobbies are writing code and going to the gym.
 
-<a href="https://sifatulrabbi.github.io">Visit Portfolio</a>
+<a href="https://linkedin/in/temujins">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:mdsifatulislam.rabbi@gmail.com">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://facebook.com/ttemujins">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+-----------------------------------------------------------------------------------------------------------------
 <br/>
 <br/>
 
-## SKILLS:
 
 <!-- icons
 <code><img src='./icons/javascript.svg' alt='javascript' height='25'></code>
@@ -68,7 +68,7 @@ I love learning and doing web development. My goal is to build new programs and 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## GitHub status
+### GitHub status
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight" alt="Sifatul's top languages"/>
@@ -79,13 +79,3 @@ I love learning and doing web development. My goal is to build new programs and 
 > 🌱 I’m currently learning NestJS  
 > 👯 I’m looking to collaborate on web development  
 > 💬 Ask me about anything [Email](mailto:mdsifatulislam.rabbi@gmail.com)  
-
-<br/>
-
----
-
-### CONTACT ME
-
-<a href="https://linkedin/in/temujins">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="mailto:mdsifatulislam.rabbi@gmail.com">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://facebook.com/ttemujins">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
