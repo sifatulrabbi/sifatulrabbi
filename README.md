@@ -9,7 +9,7 @@ I love learning and doing web development. My goal is to build new programs and 
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
 <code><img src="./icons/gmail.svg" alt="Gmail" height="35"/></code>
 </a>
-<a href="https://linkedin/in/temujins" target="_blank">
+<a href="https://linkedin.com/in/temujins" target="_blank">
 <code><img src="./icons/linkedin.svg" alt="LinkedIn" height="35"/></code>
 </a>
 <a href="https://facebook.com/ttemujins" target="_blank">
