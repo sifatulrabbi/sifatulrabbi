@@ -6,16 +6,16 @@
 
 I love learning and doing web development. My goal is to build new programs and applications, my hobbies are writing code and going to the gym.
 
-<a href="mailto:mdsifatulislam.rabbi@gmail.com">
+<a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
 <code><img src="./icons/gmail.svg" alt="Gmail" height="35"/></code>
 </a>
-<a href="https://linkedin/in/temujins">
+<a href="https://linkedin/in/temujins" target="_blank">
 <code><img src="./icons/linkedin.svg" alt="LinkedIn" height="35"/></code>
 </a>
-<a href="https://facebook.com/ttemujins">
+<a href="https://facebook.com/ttemujins" target="_blank">
 <code><img src="./icons/facebook.svg" alt="Facebook" height="35"/></code>
 </a>
-<a href="https://sifatulrabbi.github.io">
+<a href="https://sifatulrabbi.github.io" target="_blank">
 <code><img src="./icons/web.svg" alt="Website" height="35"/></code>
 </a>
 
