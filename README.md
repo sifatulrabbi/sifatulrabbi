@@ -32,9 +32,12 @@ I love learning and doing web development. My goal is to build new programs and 
 
 <br/>
 
-<!-- ![Git hub status](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sifatulrabbi&show_icons=true&include_all_commits=true&theme=tokyonight) -->
-
-![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
-![My portfolio](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=sifatulrabbi.github.io&theme=tokyonight)
 ![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
+
+![Git hub status](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sifatulrabbi&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+<!-- ![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
+
+![My portfolio](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=sifatulrabbi.github.io&theme=tokyonight) -->
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)
