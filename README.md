@@ -2,7 +2,7 @@
 
 # **Md Sifatul Islam Rabbi**
 
-I love learning and doing web development. My goal is to build new programs and applications, my hobbies are writing code and going to the gym.
+In an online forum, I saw how to show text in the browser console. That idea and the process caught my interest, and I had started learning about web development and its fundamentals. Solving problems and struggling to learn something new every day motivates me more than anything.
 
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
 <code><img src="./icons/gmail.svg" alt="Gmail" height="25"/></code>
