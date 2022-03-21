@@ -30,13 +30,14 @@ In an online forum, I saw how to show text in the browser console. That idea and
 <code><img src="./icons/mongodb.svg" alt="MongoDB" height="25"/></code>
 <code><img src="./icons/sass.svg" alt="SCSS" height="25"/></code>
 
+<!--
 <br/>
 
 ![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
 
 ![Git hub status](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sifatulrabbi&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-<!-- ![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
+![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
 
 ![My portfolio](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=sifatulrabbi.github.io&theme=tokyonight) 
 
