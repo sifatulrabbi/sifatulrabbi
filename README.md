@@ -38,6 +38,6 @@ In an online forum, I saw how to show text in the browser console. That idea and
 
 <!-- ![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
 
-![My portfolio](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=sifatulrabbi.github.io&theme=tokyonight) -->
+![My portfolio](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=sifatulrabbi.github.io&theme=tokyonight) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight) -->
