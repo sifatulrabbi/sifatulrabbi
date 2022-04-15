@@ -2,7 +2,7 @@
 
 # **Md Sifatul Islam Rabbi**
 
-In an online forum, I saw how to show text in the browser console. That idea and the process caught my interest, and I had started learning about web development and its fundamentals. Solving problems and struggling to learn something new every day motivates me more than anything.
+Currently working as a freelancing Full Stack Developer. I have a passion for software development and want to learn more about cloud computing and software development.
 
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
 <code><img src="./icons/gmail.svg" alt="Gmail" height="25"/></code>
@@ -35,10 +35,12 @@ In an online forum, I saw how to show text in the browser console. That idea and
 
 ![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
 
-![Git hub status](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sifatulrabbi&show_icons=true&include_all_commits=true&theme=tokyonight)
-
 ![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
 
 ![My portfolio](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=sifatulrabbi.github.io&theme=tokyonight) 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight) -->
+-->
+
+![Git hub status](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sifatulrabbi&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)
