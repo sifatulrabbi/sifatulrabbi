@@ -2,7 +2,7 @@
 
 # **Md Sifatul Islam Rabbi**
 
-Currently working as a freelancing Full Stack Developer. I have a passion for software development and want to learn more about cloud computing and software development.
+Currently working as a freelance Full Stack Developer. I have a passion for software development and want to learn more about cloud computing and software development.
 
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
 <code><img src="./icons/gmail.svg" alt="Gmail" height="25"/></code>
