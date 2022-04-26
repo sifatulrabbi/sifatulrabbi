@@ -5,16 +5,19 @@
 Currently working as a freelance Full Stack Developer. I have a passion for web application development and want to learn more about cloud computing.
 
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
-<code><img src="./icons/gmail.svg" alt="Gmail" height="25"/></code>
+  <code><img src="./icons/gmail.svg" alt="Gmail" height="25" /></code>
 </a>
 <a href="https://linkedin.com/in/temujins" target="_blank">
-<code><img src="./icons/linkedin.svg" alt="LinkedIn" height="25"/></code>
+  <code><img src="./icons/linkedin.svg" alt="LinkedIn" height="25" /></code>
 </a>
 <a href="https://facebook.com/ttemujins" target="_blank">
-<code><img src="./icons/facebook.svg" alt="Facebook" height="25"/></code>
+  <code><img src="./icons/facebook.svg" alt="Facebook" height="25" /></code>
 </a>
 <a href="https://sifatulrabbi.github.io" target="_blank">
-<code><img src="./icons/web.svg" alt="Website" height="25"/></code>
+  <code><img src="./icons/web.svg" alt="Website" height="25" /></code>
+</a>
+<a href="https://www.fiverr.com/temujins" target="_blank">
+  <code><img src="./icons/fiverr.svg" alt="Fiverr" height="30" /></code>
 </a>
 
 <br/>
@@ -22,13 +25,15 @@ Currently working as a freelance Full Stack Developer. I have a passion for web 
 
 ## My Stack
 
-<code><img src="./icons/javascript.svg" alt="JavaScript" height="25"/></code>
-<code><img src="./icons/typescript.svg" alt="TypeScript" height="25"/></code>
-<code><img src="./icons/nodejs.svg" alt="Node.js" height="25"/></code>
-<code><img src="./icons/nestjs.svg" alt="Nest.js" height="25"/></code>
-<code><img src="./icons/react.svg" alt="React" height="25"/></code>
-<code><img src="./icons/mongodb.svg" alt="MongoDB" height="25"/></code>
-<code><img src="./icons/sass.svg" alt="SCSS" height="25"/></code>
+<code><img src="./icons/javascript.svg" alt="JavaScript" height="25" /></code>
+<code><img src="./icons/typescript.svg" alt="TypeScript" height="25" /></code>
+<code><img src="./icons/nodejs.svg" alt="Node.js" height="25" /></code>
+<code><img src="./icons/expressjs.svg" alt="Express.js" height="25" /></code>
+<code><img src="./icons/nextjs.svg" alt="Next.js" height="25" /></code>
+<code><img src="./icons/mongodb.svg" alt="MongoDB" height="25" /></code>
+<code><img src="./icons/postgresql.svg" alt="PostgreSQL" height="25" /></code>
+<code><img src="./icons/firebase.svg" alt="Firebase" height="25" /></code>
+<code><img src="./icons/sass.svg" alt="SCSS" height="25" /></code>
 
 <!--
 <br/>
