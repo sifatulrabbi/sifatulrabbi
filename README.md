@@ -16,9 +16,6 @@ Currently working as a freelance Full Stack Developer. I have a passion for web 
 <a href="https://sifatulrabbi.github.io" target="_blank">
   <code><img src="./icons/web.svg" alt="Website" height="25" /></code>
 </a>
-<a href="https://www.fiverr.com/temujins" target="_blank">
-  <code><img src="./icons/fiverr.svg" alt="Fiverr" height="30" /></code>
-</a>
 
 <br/>
 <br/>
@@ -27,6 +24,7 @@ Currently working as a freelance Full Stack Developer. I have a passion for web 
 
 <code><img src="./icons/javascript.svg" alt="JavaScript" height="25" /></code>
 <code><img src="./icons/typescript.svg" alt="TypeScript" height="25" /></code>
+<code><img src="./icons/python.svg" height="25" /></code>
 <code><img src="./icons/nodejs.svg" alt="Node.js" height="25" /></code>
 <code><img src="./icons/express.svg" alt="Express.js" height="25" /></code>
 <code><img src="./icons/nextjs.svg" alt="Next.js" height="25" /></code>
