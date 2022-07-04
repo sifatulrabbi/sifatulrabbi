@@ -34,17 +34,18 @@ Currently working as a freelance Full Stack Developer. I have a passion for web 
 <code><img src="./icons/sass.svg" alt="SCSS" height="25" /></code>
 <code><img src="./icons/tailwindcss.svg" alt="TailwindCSS" height="25" /></code>
 
-<!--
+
 <br/>
 
 ![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
-
+<!--
 ![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
 
 ![My portfolio](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=sifatulrabbi.github.io&theme=tokyonight) 
 
 -->
-
+<!--
 ![Git hub status](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sifatulrabbi&show_icons=true&include_all_commits=true&theme=tokyonight)
+-->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sifatulrabbi&theme=tokyonight)
