@@ -20,20 +20,22 @@ Currently working as a freelance Full Stack Developer. I have a passion for web 
 <br/>
 <br/>
 
-## My Stack
+## Languages
 
 <code><img src="./icons/typescript.svg" alt="TypeScript" height="25" /></code>
-<code><img src="./icons/golang.svg" alt="Go, Golang" height="20" /></code>
 <code><img src="./icons/javascript.svg" alt="JavaScript" height="25" /></code>
-<code><img src="./icons/nodejs.svg" alt="Node.js" height="25" /></code>
-<code><img src="./icons/express.svg" alt="Express.js" height="25" /></code>
-<code><img src="./icons/nextjs.svg" alt="Next.js" height="25" /></code>
 <code><img src="./icons/python.svg" height="25" /></code>
+<code><img src="./icons/golang.svg" alt="Go, Golang" height="20" /></code>
+<code><img src="./icons/sass.svg" alt="SCSS" height="25" /></code>
+<!--
 <code><img src="./icons/mongodb.svg" alt="MongoDB" height="25" /></code>
 <code><img src="./icons/postgresql.svg" alt="PostgreSQL" height="25" /></code>
 <code><img src="./icons/firebase.svg" alt="Firebase" height="25" /></code>
-<code><img src="./icons/sass.svg" alt="SCSS" height="25" /></code>
 <code><img src="./icons/tailwindcss.svg" alt="TailwindCSS" height="25" /></code>
+<code><img src="./icons/nodejs.svg" alt="Node.js" height="25" /></code>
+<code><img src="./icons/express.svg" alt="Express.js" height="25" /></code>
+<code><img src="./icons/nextjs.svg" alt="Next.js" height="25" /></code>
+-->
 
 
 <br/>
