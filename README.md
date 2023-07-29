@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-I'm a Full Stack developer and a tech enthusiast. Passionate about building reliable and scalable systems.
+I'm a Full Stack developer and a tech enthusiast who is passionate about building reliable and scalable systems.
 
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
   <code><img src="./icons/gmail.svg" alt="Gmail" height="25" /></code>
