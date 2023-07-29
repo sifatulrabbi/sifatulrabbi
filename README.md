@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-I have a passion for web application development and want to collaborate more about cloud computing. Currently working as a freelance fullstack developer. Contact me if you want to build something amazing.
+I'm a Full Stack developer and a tech enthusiast. Passionate about building reliable and scalable systems.
 
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
   <code><img src="./icons/gmail.svg" alt="Gmail" height="25" /></code>
