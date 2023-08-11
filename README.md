@@ -11,12 +11,12 @@ I'm a Full Stack developer and a tech enthusiast who is passionate about buildin
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
   <code><img src="./icons/gmail.svg" alt="Gmail" height="25" /></code>
 </a>
-<a href="https://linkedin.com/in/temujins" target="_blank">
+<a href="https://www.linkedin.com/in/sifatulrabbi" target="_blank">
   <code><img src="./icons/linkedin.svg" alt="LinkedIn" height="25" /></code>
 </a>
-<a href="https://sifatulrabbi.github.io" target="_blank">
+<!-- <a href="https://sifatulrabbi.github.io" target="_blank">
   <code><img src="./icons/web.svg" alt="Website" height="25" /></code>
-</a>
+</a> -->
 
 <br/>
 <br/>
@@ -70,9 +70,11 @@ I'm a Full Stack developer and a tech enthusiast who is passionate about buildin
 
 <br/>
 
-![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d62335aa497d7fa5261b7e?variant=dark)](https://roadmap.sh)
 
 <!--
+![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
+
 ![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
 
 ![My portfolio](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=sifatulrabbi.github.io&theme=tokyonight)
