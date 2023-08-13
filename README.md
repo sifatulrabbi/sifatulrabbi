@@ -81,11 +81,12 @@ I'm a Full Stack developer and a tech enthusiast who is passionate about buildin
 <code><img src="./icons/sass.svg" alt="SCSS" height="25" /></code>
 <code><img src="./icons/tailwindcss.svg" alt="TailwindCSS" height="25" /></code> -->
 
+<!--
 <br/>
 
 ![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d62335aa497d7fa5261b7e?variant=dark&roadmaps=backend%2Cnodejs%2Cgolang%2Cfull-stack)
 
-<!-- ![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
+![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
 
 ![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
 
