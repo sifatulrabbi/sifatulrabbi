@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-I'm a Full Stack developer and a tech enthusiast who is passionate about building reliable and scalable systems.
+I’m a passionate full-stack developer with the ability to deliver business needs through software solutions. I have a robust foundation in web development and cloud computing. I’m constantly challenging myself to improve and take on demanding tasks. I am eager to learn more and collaborate with dynamic teams to grow collectively.
 
 <a href="mailto:mdsifatulislam.rabbi@gmail.com" target="_blank">
   <code><img src="./icons/gmail.svg" alt="Gmail" height="25" /></code>
@@ -37,10 +37,10 @@ I'm a Full Stack developer and a tech enthusiast who is passionate about buildin
 
 ## My Soft Skills
 
-- Punctuality
-- Enthusiasm
-- Team Player
-- Work Ethic
+- Rapidly adapt to new technologies
+- Experience leading teams
+- Problem Solving
+- Effective communication
 
 <!-- ### Languages
 
