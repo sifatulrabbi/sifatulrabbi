@@ -10,6 +10,7 @@ I’m a passionate full-stack developer with the ability to deliver business nee
 <a href="https://www.linkedin.com/in/sifatulrabbi" target="_blank">
   <code><img src="./icons/linkedin.svg" alt="LinkedIn" height="25" /></code>
 </a>
+<a href="./sifatul-rabbi-fullstack.pdf">Resume</a>
 
 <br/>
 
