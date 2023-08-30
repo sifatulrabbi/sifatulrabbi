@@ -8,15 +8,9 @@
 
 A full-stack Developer with a passion for building seamless web and server applications. I have been working as a freelancer and helped many companies achieve their goals by solving their business need with software solutions. I am always motivated to reach the next level as a full-stack developer and keep learning more about the web and cloud computing.
 
-<a href="mailto:sifatul@sifatul.com" target="_blank">
-  <code><img src="./icons/gmail.svg" alt="Gmail" height="25" /></code>
-</a>
-<a href="https://www.linkedin.com/in/sifatulrabbi" target="_blank">
-  <code><img src="./icons/linkedin.svg" alt="LinkedIn" height="25" /></code>
-</a>
-<a href="./sifatul-rabbi-fullstack.pdf">Resume</a>
-
-<br/>
+[My Resume](https://drive.google.com/file/d/1qDVutyfAVCArOU5QAYwUm1W_F1Yj7Y1x/view?usp=sharing)  
+[Email: sifatul@sifatul.com](mailto:sifatul@sifatul.com)  
+[Linked In](https://www.linkedin.com/in/sifatulrabbi)
 
 ## My skills
 
