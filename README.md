@@ -4,11 +4,11 @@
 <br/>
 -->
 
-# Hi, I'm Sifatul Rabbi
+# _Hi, I'm_ `Sifatul Rabbi`
 
-A full-stack Developer with a passion for building seamless web and server applications. I have been working as a freelancer and helped many companies achieve their goals by solving their business need with software solutions. I am always motivated to reach the next level as a full-stack developer and keep learning more about the web and cloud computing.
+I'm a `Full-stack Developer` with a passion for building seamless web and server applications. I have been working as a freelance since February 2022. I am always motivated to reach the next level as a full-stack developer and keep learning more about the web and cloud computing.
 
-[My Resume](https://drive.google.com/file/d/1qDVutyfAVCArOU5QAYwUm1W_F1Yj7Y1x/view?usp=sharing)  
+[My Resume](https://drive.google.com/file/d/1R4EiyzqXpy3rQ4T7tB1ZoFZiigu8bN-V/view?usp=sharing)  
 [Email: sifatul@sifatul.com](mailto:sifatul@sifatul.com)  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)
 
@@ -28,9 +28,9 @@ A full-stack Developer with a passion for building seamless web and server appli
 - Authentication/Authorization, OAuth, Auth0, Token based auth
 - Unit testing, Code reviews
 
-![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d62335aa497d7fa5261b7e?variant=dark&roadmaps=backend%2Cnodejs%2Cgolang%2Cfull-stack)
 
 <!--
+![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d62335aa497d7fa5261b7e?variant=dark&roadmaps=backend%2Cnodejs%2Cgolang%2Cfull-stack)
 <br/>
 ![GitHub language](https://github-readme-stats.vercel.app/api/top-langs/?username=sifatulrabbi&layout=compact&theme=tokyonight)
 ![Full stack E-Commerce shop](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sifatulrabbi&repo=fullstack-ecommerce-shop&theme=tokyonight)
