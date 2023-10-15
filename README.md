@@ -8,7 +8,7 @@
 
 I'm a `Full-stack Developer` with a passion for building seamless web and server applications. I have been working as a freelance since February 2022. I am always motivated to reach the next level as a full-stack developer and keep learning more about the web and cloud computing.
 
-[My Resume](https://drive.google.com/file/d/1R4EiyzqXpy3rQ4T7tB1ZoFZiigu8bN-V/view?usp=sharing)  
+[My Resume]([https://drive.google.com/file/d/1R4EiyzqXpy3rQ4T7tB1ZoFZiigu8bN-V/view?usp=sharing](https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing))  
 [Email: sifatul@sifatul.com](mailto:sifatul@sifatul.com)  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)
 
