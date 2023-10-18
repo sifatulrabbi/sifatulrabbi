@@ -12,22 +12,6 @@ I'm a `Full-stack Developer` with a passion for building seamless web and server
 [Email: sifatul@sifatul.com](mailto:sifatul@sifatul.com)  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)
 
-## My skills
-
-- Rapidly adapt to new technologies
-- Problem Solving
-- Effective communication
-- Node.js (TypeScript, JavaScript), Go, Python
-- Express.js, Gin, Gorilla Mux, Flask, FastAPI
-- Git, Firebase, Docker, Linux, Nginx
-- MongoDB, PostgreSQL, Redis
-- REST, gRPC, GraphQL
-- HTML, CSS, SCSS, TailwindCSS, Bootstrap
-- React.js, Vue.js, Next.js, SPA, SSR
-- Web Security best practices
-- Authentication/Authorization, OAuth, Auth0, Token based auth
-- Unit testing, Code reviews
-
 
 <!--
 ![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d62335aa497d7fa5261b7e?variant=dark&roadmaps=backend%2Cnodejs%2Cgolang%2Cfull-stack)
