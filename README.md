@@ -4,13 +4,18 @@
 <br/>
 -->
 
-# _Hi, I'm_ `Sifatul Rabbi`
+_Hi, I'm_
 
-I'm a `Full-stack Developer` with a passion for building seamless web and server applications. I have been working as a freelance since February 2022. I am always motivated to reach the next level as a full-stack developer and keep learning more about the web and cloud computing.
+# Sifatul Rabbi
+
+`Full Stack Developer`
+
+I build web and server applications and write code to convert business logic into software. I like exploring the tech world. Currently focusing on building LLM-based applications, and becoming better at designing software.
 
 [My Resume](https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing)  
 [Email: sifatul@sifatul.com](mailto:sifatul@sifatul.com)  
-[Linked In](https://www.linkedin.com/in/sifatulrabbi)
+[Linked In](https://www.linkedin.com/in/sifatulrabbi)  
+[Portfolio](https://sifatul.com)
 
 
 <!--
