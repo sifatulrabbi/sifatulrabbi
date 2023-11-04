@@ -10,7 +10,11 @@ _Hi, I'm_
 
 `Full Stack Developer`
 
-I build web and server applications and write code to convert business logic into software. I like exploring the tech world. Currently focusing on building LLM-based applications, and becoming better at designing software.
+I started learning programming as a hobby and then turned it into my career. I enjoy solving technical complexities and translating business logic into software. This journey sparked my interest in learning more about the entire software lifecycle, allowing me to acquire the skills necessary for building software from scratch.
+
+I embarked on my career as a freelance Full Stack developer and was fortunate to find projects that I genuinely enjoyed. Over the course of my career, I have engaged in various aspects of software development, ranging from creating frontend applications to designing secure and high-performance APIs and deploying them on servers using automated pipelines.
+
+My primary focus is on building web and server applications, microservices, and utilizing modern LLMs to develop agents. I continuously refine my skills and am excited to keep pushing the boundaries in the tech world.
 
 [My Resume](https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing)  
 [Email: sifatul@sifatul.com](mailto:sifatul@sifatul.com)  
