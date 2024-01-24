@@ -8,11 +8,11 @@ _Hi, I'm_
 
 # Sifatul Rabbi
 
-`Full Stack Developer`
+`Lead Software Developer`
 
 I started learning programming as a hobby and then turned it into my career. I enjoy solving technical complexities and translating business logic into software. This journey sparked my interest in learning more about the entire software lifecycle, allowing me to acquire the skills necessary for building software from scratch.
 
-I embarked on my career as a freelance Full Stack developer and was fortunate to find projects that I genuinely enjoyed. Over the course of my career, I have engaged in various aspects of software development, ranging from creating frontend applications to designing secure and high-performance APIs and deploying them on servers using automated pipelines.
+I embarked on my career as a freelance Full Stack developer and was fortunate to find projects that I genuinely enjoyed. Throughout my career, I have engaged in various aspects of software development, from creating frontend applications to designing secure and high-performance APIs and deploying them on servers using automated pipelines.
 
 My primary focus is on building web and server applications, microservices, and utilizing modern LLMs to develop agents. I continuously refine my skills and am excited to keep pushing the boundaries in the tech world.
 
