@@ -8,10 +8,8 @@ _Hi, I'm_
 
 # Sifatul Rabbi
 
-`Software Developer`
-
-I started learning programming as a hobby and then turned it into my career. I enjoy solving technical complexities and translating business logic into software.
-
+I build software at work and write code in my spare time ☕️.  
+You can find me here:  
 [Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)  
 <!--
