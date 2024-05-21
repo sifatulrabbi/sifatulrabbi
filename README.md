@@ -8,7 +8,8 @@ _Hi, I'm_
 
 # Sifatul Rabbi
 
-I build software at work and write code in my spare time ☕️.  
+I discovered my love for coding and building things while modding GTA 5 with Lua and XML to add new 'Cars' and 'Peds'. Coding and crafting software felt like having superpowers so I started diving deep. As a Full-stack Engineer, I've led 2 SaaS startups in the past 3 years, focusing on translating business requirements into applications. Building and designing backend systems excites me the most. And I use Neovim by the way.
+
 You can find me here:  
 [Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)  
