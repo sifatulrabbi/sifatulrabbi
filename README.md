@@ -14,7 +14,7 @@ You can find me here:
 [Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)  
 
-Check out this AI assistance I'm working on to help you plan effectively [helloscribe.ai](https://helloscribe.ai)
+Check out this AI assistant I'm working on to help you plan effectively [helloscribe.ai](https://helloscribe.ai)
 <!--
 [My Resume](https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing)  
 [Portfolio](https://sifatul.com)
