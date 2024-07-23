@@ -8,20 +8,16 @@ _Hi, I'm_
 
 # Sifatul Rabbi
 
-I love building software and collaborating with awesome people. Most of the time I use Go, Python, and TypeScript to hack out most of my curiosities. For example, I implemented HTTP on top of the TCP protocol by reading the RFC notes and using Go.
+I love building software and collaborating with awesome people. Most of the time I use Go, Python, and TypeScript to hack out most of my curiosities. For example, I have build a HTTP load balancer using Go that using various load balancing strategy and distributes loads across a list of servers.
 
-I enjoy exploring the tech world and practicing system design concepts. This makes me more focused on the overall system. I've helped rebuild HelloScribe AI's entire system in a more secure and scalable way. My preferred working environment is a fast-paced SaaS startup. Moving as fast as possible, making decisions that will change the entire outcome of a software system, and collaborating with awesome engineers always excite me.
-
-<!--
-I discovered my love for coding and building things while modding GTA 5 with Lua and XML to add new 'Cars' and 'Peds'. Coding and crafting software felt like having superpowers so I started diving deep. As a Full-stack Engineer, I've led 2 SaaS startups in the past 3 years, focusing on translating business requirements into applications. Building and designing backend systems excites me the most. And I use Neovim by the way.
--->
+I enjoy exploring the tech world and practicing system design concepts. This makes me more focused on the overall system. I've helped rebuild HelloScribe AI's entire system in a more secure and scalable way. Moving as fast as possible, making decisions that will change the entire outcome of a software system, and collaborating with awesome engineers always excite me.
 
 You can find me here:  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)  
-[Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)  
+[Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)
 
 <!--
-[My Resume](https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing)  
+[My Resume](https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing)
 [Portfolio](https://sifatul.com)
 -->
 
