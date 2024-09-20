@@ -8,15 +8,13 @@ _Hi, I'm_
 
 # Sifatul Rabbi
 
-I love building software and collaborating with awesome people. Most of the time I use Go, Python, and TypeScript to hack out most of my curiosities. For example, I have build a HTTP load balancer using Go that using various load balancing strategy and distributes loads across a list of servers.
-
-I enjoy exploring the tech world and practicing system design concepts. This makes me more focused on the overall system. I've helped rebuild HelloScribe AI's entire system in a more secure and scalable way. Moving as fast as possible, making decisions that will change the entire outcome of a software system, and collaborating with awesome engineers always excite me.
+I love building software and collaborating with awesome people. Particularly, I dive into things I don't know and produce results. However, my attention span is limited to system design, server apps, web apps, and gen-AI. I enjoy exploring the tech world and mostly use Go, Python, and TypeScript to hack out my curiosities.
 
 You can find me here:  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)  
 [Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)
 
-_I have been working professionally since 2021. I did a simple hack to make Github show my profile exists since 2002. Which is my birth year._
+_I have been working professionally since 2021. I did a simple hack to make Github show my profile has existed since 2002. Which is my birth year._
 
 <!--
 [My Resume](https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing)
