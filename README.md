@@ -14,7 +14,6 @@ You can find me here:
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)  
 [Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)
 
-_I have been working professionally since 2021. I did a simple hack to make Github show my profile has existed since 2002. Which is my birth year._
 
 <!--
 [My Resume](https://drive.google.com/file/d/1SKtkM5hFAv7xTwJJEEFpKR19aqriO4Es/view?usp=sharing)
