@@ -12,8 +12,8 @@ I love building software and collaborating with awesome people. Particularly, I 
 
 You can find me here:  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)  
-[Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)
-[Portfolio](https://sifatulrabbi.com)
+[Email: sifatulrabbii@gmail.com](mailto:sifatulrabbii@gmail.com)  
+[Portfolio: sifatulrabbi.com](https://sifatulrabbi.com)
 
 
 <!--
