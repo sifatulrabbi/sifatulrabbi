@@ -8,7 +8,7 @@ _Hi, I'm_
 
 # Sifatul Rabbi
 
-I love building software and collaborating with awesome people. Particularly, I dive into things I don't know and produce results. However, my attention span is limited to system design, server apps, web apps, and gen-AI. I enjoy exploring the tech world and mostly use Go, Python, and TypeScript to hack out my curiosities. And I use `neovim` btw.
+I love building software and collaborating with awesome people. Particularly, I dive into things I don't know and produce results. However, my attention span is limited to system design, server apps, web apps, and gen-AI. I enjoy exploring the tech world and mostly use Go, Python, and TypeScript to hack out my curiosities.
 
 You can find me here:  
 [Linked In](https://www.linkedin.com/in/sifatulrabbi)  
